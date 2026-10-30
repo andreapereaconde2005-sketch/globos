@@ -25,8 +25,7 @@ class Globo
   {
       fill(c);
       rect(x,y,95,100);
-      imageMode(CENTER);
-      image(cara,x,y,70,90);
+      image(cara,x,y,90,90);
   }
   
 }
